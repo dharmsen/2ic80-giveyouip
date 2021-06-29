@@ -1,10 +1,11 @@
 # 2ic80-giveyouip
 
 This arp poisoning/dns spoofing tool was made for educational purposes only.
+This tool was developed for the final project of the course 2IC80 Lab on Offensive Computer Security at the Eindhoven University of Technology.
 
 ---
 
-THe repository is split up in two folders:
+The repository is split up in two folders:
 - Combined
 - Seperate
 
