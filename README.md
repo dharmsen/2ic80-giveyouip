@@ -35,3 +35,7 @@ For Seperate, the files are ran seperately, in the following order:
 3. `dns.py`/`dns_overkill.py`
 
 Arguments are provided in the files.
+
+---
+
+The example spoofing website we provide runs on an Apache webserver. The files _rickroll.mp4_ and _rickroll.mp3_ are left out and are to be provided by the user, considering we do not want to illegitimately spread copyrighted content.
