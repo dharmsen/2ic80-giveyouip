@@ -5,6 +5,15 @@ This tool was developed for the final project of the course 2IC80 Lab on Offensi
 
 ---
 
+Required libraries:
+- [NetfilterQueue](https://pypi.org/project/NetfilterQueue/)
+- [sslstrip](https://github.com/moxie0/sslstrip) - 0.9
+- [Twisted](https://pypi.org/project/Twisted/) - 13.1.0
+- [pyOpenSSL](https://pypi.org/project/pyOpenSSL/) - 0.13.1
+- [setuptools](https://pypi.org/project/setuptools/) - 44.1.1
+
+---
+
 The repository is split up in two folders:
 - Combined
 - Seperate
