@@ -1,9 +1,12 @@
 # 2ic80-giveyouip
 
-This arp poisoning/dns spoofing tool was made for educational purposes only.
+This ARP poisoning/DNS spoofing tool was made for educational purposes only.
 This tool was developed for the final project of the course 2IC80 Lab on Offensive Computer Security at the Eindhoven University of Technology.
 
 ---
+## Requirements
+
+Our tool works on Linux machines only, using Python version 2.7.
 
 Required libraries:
 - [NetfilterQueue](https://pypi.org/project/NetfilterQueue/)
@@ -13,6 +16,7 @@ Required libraries:
 - [setuptools](https://pypi.org/project/setuptools/) - 44.1.1
 
 ---
+## Documentation
 
 The repository is split up in two folders:
 - Combined
